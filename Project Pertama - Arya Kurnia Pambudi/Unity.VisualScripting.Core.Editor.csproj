@@ -58,9 +58,9 @@
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Inspection\Special\UnknownInspector.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Descriptors\DescriptorAttribute.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Inspection\Root\LudiqBehaviourEditor.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\SearchUtility.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Plugin\Changelogs\LegacyLudiqGraphs\Changelog_1_4_1.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Windows\WindowClose.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\SearchUtility.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\SemanticLabel.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\ResourceProviders\AssemblyResourceProvider.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Inspection\Unity\Vector4Inspector.cs" />
@@ -75,9 +75,9 @@
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Interface\TextureResolution.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\SerializedProperties\SerializedPropertyProviderProvider.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Plugin\Changelogs\LegacyLudiqGraphs\Changelog_1_2_4.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Plugin\Migrations\Migration_1_4_5_to_1_4_6.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Descriptors\IDescriptor.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Analytics\NodeUsageAnalytics.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Plugin\Migrations\Migration_1_4_5_to_1_4_6.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\ReorderableList\Internal\ReorderableListResources.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Windows\Wizard.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Descriptors\Description.cs" />
@@ -256,10 +256,10 @@
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Assignment\Assigner.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Meta\PluginConfigurationItemMetadata.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Products\ProductAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Product\LudiqProduct.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\EditorLinqUtility.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Exceptions\EditorDebugUtility.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Plugin\Migrations\Migration_1_5_1_to_1_5_2.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Product\LudiqProduct.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Windows\AboutWindow\AboutablePage.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\NativeUtility.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Analytics\MigrationAnalytics.cs" />
@@ -316,9 +316,9 @@
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Context\GraphContextExtensionProvider.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\ReorderableList\GenericListAdaptor.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Exceptions\UnityEditorInternalException.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Analysis\IAnalysis.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Plugin\Changelogs\LegacyLudiqGraphs\Changelog_1_4_0.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Inspection\Special\ListInspector.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Analysis\IAnalysis.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\ReorderableList\ElementAdderMenu\ElementAdderMenuBuilder.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\ReorderableList\Internal\GUIHelper.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Plugin\Changelogs\LegacyLudiqGraphs\Changelog_1_0_0.cs" />
@@ -468,8 +468,8 @@
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\VSBackupUtility.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\WarningLevel.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\VSMigrationUtility.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\Paths.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Canvases\DistributeOperation.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\Paths.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Interface\Fonts\FontWeight.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Widgets\Groups\GraphGroupEditor.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\EditorApplicationUtility.cs" />
@@ -494,8 +494,8 @@
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\ScriptReference.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Platforms\AotPreBuilder.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Plugin\BoltCoreConfiguration.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\ReorderableList\ElementAdderMenu\IElementAdder.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Platforms\AotStubWriterProvider.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\ReorderableList\ElementAdderMenu\IElementAdder.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\MathfEx.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Inspection\Other\SemanticVersionInspector.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Inspection\Special\SystemObjectInspector.cs" />
@@ -768,11 +768,26 @@
     <Reference Include="unityplastic">
         <HintPath>D:\GitHub Project\GitHub\arya-kurnia-149251970101-20\Project Pertama - Arya Kurnia Pambudi\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst.Unsafe">
+        <HintPath>D:\GitHub Project\GitHub\arya-kurnia-149251970101-20\Project Pertama - Arya Kurnia Pambudi\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Cecil.Mdb">
+        <HintPath>D:\GitHub Project\GitHub\arya-kurnia-149251970101-20\Project Pertama - Arya Kurnia Pambudi\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
         <HintPath>D:\GitHub Project\GitHub\arya-kurnia-149251970101-20\Project Pertama - Arya Kurnia Pambudi\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst.Cecil.Pdb">
+        <HintPath>D:\GitHub Project\GitHub\arya-kurnia-149251970101-20\Project Pertama - Arya Kurnia Pambudi\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Cecil">
+        <HintPath>D:\GitHub Project\GitHub\arya-kurnia-149251970101-20\Project Pertama - Arya Kurnia Pambudi\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
+    </Reference>
     <Reference Include="log4netPlastic">
         <HintPath>D:\GitHub Project\GitHub\arya-kurnia-149251970101-20\Project Pertama - Arya Kurnia Pambudi\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Cecil.Rocks">
+        <HintPath>D:\GitHub Project\GitHub\arya-kurnia-149251970101-20\Project Pertama - Arya Kurnia Pambudi\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
         <HintPath>D:\GitHub Project\GitHub\arya-kurnia-149251970101-20\Project Pertama - Arya Kurnia Pambudi\Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
