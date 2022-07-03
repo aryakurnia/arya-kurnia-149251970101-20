@@ -425,7 +425,10 @@ MonoBehaviour:
   rightScore: 0
   leftScore: 0
   maxScore: 7
+<<<<<<< Updated upstream
   ball: {fileID: 0}
+=======
+>>>>>>> Stashed changes
 --- !u!4 &294873396
 Transform:
   m_ObjectHideFlags: 0
